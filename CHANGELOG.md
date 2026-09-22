@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Added
+- `/autoresearch` now offers completion suggestions for all supported subcommands as you type.
+
 ## [1.8.1] - 2026-09-08
 
 ### Fixed
